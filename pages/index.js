@@ -1,4 +1,4 @@
 function Home(){
-    return  <h1>Tente não se emocionar. O ego brigou com a aura, por causa de uma mitada. O ego saiu ferido e a aura despedaçada.</h1>
+    return  <h1>Tente não se emocionar: O Ego brigou com a Aura, por causa de uma mitada, o Ego saiu ferido, e a Aura saiu moggada.. 💔</h1>
 }
 export default Home;
